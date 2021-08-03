@@ -1,0 +1,3 @@
+/Users/isaac/FORE_HEAD/2021.08.10/210810_Cram-for-Test_LIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isaac/FORE_HEAD/2021.08.10/210810_Cram-for-Test_LIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaac/FORE_HEAD/2021.08.10/210810_Cram-for-Test_LIS/cmake-build-debug/CMakeFiles/210810_Cram_for_Test_LIS.dir

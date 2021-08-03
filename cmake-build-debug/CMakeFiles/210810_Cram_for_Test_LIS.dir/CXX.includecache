@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isaac/FORE_HEAD/2021.08.10/210810_Cram-for-Test_LIS/main.cpp
+iostream
+-
+cstdio
+-
+
